@@ -1,0 +1,1 @@
+( ( ( EGFR_stimulus  ) AND NOT ( GRB2  )  ) AND NOT ( PKC  ) )  OR ( ( ( SPRY  ) AND NOT ( GRB2  )  ) AND NOT ( PKC  ) ) 

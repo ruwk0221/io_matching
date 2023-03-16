@@ -1,0 +1,1 @@
+ NOT ( ( SMAD  )  OR ( Apoptosis  )  OR ( P2 ) )

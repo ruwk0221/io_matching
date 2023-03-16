@@ -1,0 +1,47 @@
+﻿node,OncoKB
+ATF2,
+ATM,Tumor Suppressor
+ELK1,
+FOS,
+FRS2,
+GAB1,
+GRB2,
+JUN,
+PKC,
+RAF,
+RSK,
+TAOK,
+GADD45,
+MDM2,
+MTK1,
+MYC,
+p14,Tumor Suppressor
+p21,Tumor Suppressor
+p38,
+p53,
+SMAD,
+TAK1,
+TGFBR,
+AKT,Oncogene
+AP1,
+BCL2,Oncogene
+CREB,
+DUSP1,
+FGFR3,Oncogene
+FOXO3,
+MAP3K1_3,Tumor Suppressor
+MAX,Tumor Suppressor
+MSK,Oncogene
+p70,Oncogene
+PDK1,
+PI3K,Oncogene
+PLCG,Oncogene
+PPP2CA,
+PTEN,Tumor Suppressor
+RAS,Oncogene
+SOS,Oncogene
+SPRY,
+EGFR,Oncogene
+ERK,Oncogene
+JNK,
+MEK1_2,Oncogene

@@ -1,0 +1,1 @@
+( IFNG AND ( ( ( IFNGR1  AND IFNGR2 ) ) )    )  OR ( IFNG_e AND ( ( ( IFNGR1  AND IFNGR2 ) ) )    ) 

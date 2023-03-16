@@ -1,0 +1,1 @@
+( alpha_1213R AND ( ( ( Ca  AND PKC ) ) )    )  OR ( alpha_qR AND ( ( ( Ca  AND PKC ) ) )    )  OR ( EGF AND ( ( ( NOT PKC ) ) )    )  OR ( alpha_iR AND ( ( ( Ca  AND PKC ) ) )    ) 

@@ -1,0 +1,1 @@
+( ( ( ( ( ( DNAdamage  ) AND NOT ( AKT2  )  ) AND NOT ( AKT1  )  ) AND NOT ( p53  )  ) AND NOT ( miR203  )  ) AND NOT ( NICD  ) ) 

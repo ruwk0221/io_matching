@@ -1,0 +1,1 @@
+( Epsin )  OR ( Endophilin AND ( ( ( PIP2_45 ) ) )    )  OR ( CIN85 )  OR ( Eps15 ) 

@@ -1,0 +1,1 @@
+( ( ( XPF AND ( ( ( DSB  AND DNAPK ) ) )     ) AND NOT ( CHKREC  )  ) AND NOT ( FANCJBRCA1 AND ( ( ( ssDNARPA ) ) )     ) )  OR ( ( KU AND ( ( ( DSB  AND DNAPK ) ) )     ) AND NOT ( ATM AND ( ( ( ATR ) ) )     ) ) 

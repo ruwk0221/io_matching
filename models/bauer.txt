@@ -1,0 +1,22 @@
+# BOOLEAN RULES
+Cadherin*= Cadherin
+VEGFR*= VEGFR
+Integrin*= Integrin
+GRB2*= VEGFR
+Ras*= GRB2
+Raf1*= Ras
+MEK1*= Raf1 or Rac1
+ERK1*= MEK1
+PI3K*= Ras and FAK
+Akt*= PI3K and not PTEN
+Rac1*= PI3K and not RhoA
+GSK3beta*= not Akt
+Bad*= not Akt
+betacatenin*= not Cadherin and not GSK3beta
+FAK*= Integrin
+p53*= not Integrin
+PTEN*= p53
+RhoA*= FAK
+ROCK1*= RhoA and not ERK1
+Actin*= ROCK1 or Rac1
+cyclinD1*= ERK1 and betacatenin

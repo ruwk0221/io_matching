@@ -1,0 +1,1 @@
+( ( SpindleAssembly  ) AND NOT ( CentrosomeMat  ) ) 

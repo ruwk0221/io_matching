@@ -1,0 +1,1 @@
+( ( NUC1 AND ( ( ( ICL  AND p53 ) ) )     ) AND NOT ( FAcore AND ( ( ( FANCD2I ) ) )     ) )  OR ( ( ICL AND ( ( ( ATR  OR ATM ) ) )     ) AND NOT ( FAcore AND ( ( ( FANCD2I ) ) )     ) ) 

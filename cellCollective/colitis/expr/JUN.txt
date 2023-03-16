@@ -1,0 +1,1 @@
+( ( ERK AND ( ( ( JNK ) ) )     ) AND NOT ( GSK3B  ) )  OR ( ( BCATENIN AND ( ( ( JNK ) ) )     ) AND NOT ( GSK3B  ) ) 

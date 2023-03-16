@@ -1,0 +1,8 @@
+nohup: ignoring input
+lymphopoesis
+Traceback (most recent call last):
+  File "main_cellCollective.py", line 13, in <module>
+    TEMP = jR.cellcollective(Model, Prefix, Suffix)
+  File "/home/jijoo/tmp/pycharm_project_225/jReversion.py", line 18, in cellcollective
+    with open('cellcollective/' + model_name + '/expr/external_components.ALL.txt', 'r') as ecf:
+FileNotFoundError: [Errno 2] No such file or directory: 'cellcollective/lymphopoesis/expr/external_components.ALL.txt'

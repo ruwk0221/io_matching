@@ -1,0 +1,1 @@
+( ( ( ( ERBB3  ) AND NOT ( pertuzumab  )  ) AND NOT ( PTEN  )  ) AND NOT ( erlotinib  ) )  OR ( ( ( ( stimulus  ) AND NOT ( pertuzumab  )  ) AND NOT ( PTEN  )  ) AND NOT ( erlotinib  ) )  OR ( ( ( ( RPS6  ) AND NOT ( pertuzumab  )  ) AND NOT ( PTEN  )  ) AND NOT ( erlotinib  ) ) 

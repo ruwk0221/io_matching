@@ -1,0 +1,1 @@
+( ( ( CycA  ) AND NOT ( Cdh1  ) )  OR ( ( Cdc20  ) AND NOT ( Cdh1  ) )  OR ( ( CycB  ) AND NOT ( Cdh1  ) )  OR ( UbcH10 AND ( ( ( NOT Cdh1 ) )  OR ( ( Cdh1 )  AND (  ( ( Cdc20  OR CycA  OR CycB ) ) ) ) )    )  ) OR  NOT ( UbcH10 OR Cdc20 OR CycA OR Cdh1 OR CycB ) 

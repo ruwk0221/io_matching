@@ -1,0 +1,1 @@
+( ( ( ATR  ) AND NOT ( CHKREC  )  ) AND NOT ( FAcore  ) )  OR ( ( ( DSB	  ) AND NOT ( CHKREC  )  ) AND NOT ( FAcore  ) ) 

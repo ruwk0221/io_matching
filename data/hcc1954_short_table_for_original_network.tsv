@@ -1,0 +1,11 @@
+node	Class	Canalizing	UnreachableEffective	FFL3	FFL4	FFL5	FBL
+mTOR	C0	False	False	True	True	True	0
+AKT	C0	False	False	False	False	False	0
+MEK1_2	C1	False	False	False	False	False	0
+ERBB3	C3	True	False	False	False	False	0
+ERBB1	C3	True	False	False	False	False	0
+ERK1_2	C1	False	False	False	False	False	0
+p70S6K	C0	False	False	True	True	True	0
+PLCg	C3	True	False	False	False	False	0
+PDK1	C1	False	False	False	False	False	0
+ERBB2	C1	True	False	False	False	False	0

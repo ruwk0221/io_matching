@@ -1,0 +1,22 @@
+# BOOLEAN RULES
+Cadherin*= Cadherin > 0
+VEGFR*= VEGFR > 0
+Integrin*= Integrin > 0
+GRB2*= VEGFR > 0
+Ras*= GRB2 > 0
+Raf1*= Ras > 0
+MEK1*= Raf1 + Rac1 > 0
+ERK1*= MEK1 > 0
+PI3K*= Ras + FAK > 0
+Akt*= PI3K - PTEN > 0
+Rac1*= PI3K - RhoA > 0
+GSK3beta*= - Akt > 0
+Bad*= - Akt > 0
+betacatenin*= - Cadherin - GSK3beta > 0
+FAK*= Integrin > 0
+p53*= - Integrin > 0
+PTEN*= p53 > 0
+RhoA*= FAK > 0
+ROCK1*= RhoA - ERK1 > 0
+Actin*= ROCK1 + Rac1 > 0
+cyclinD1*= ERK1 + betacatenin > 0

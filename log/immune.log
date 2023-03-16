@@ -1,0 +1,22 @@
+nohup: ignoring input
+immune
+Traceback (most recent call last):
+  File "main_cellCollective.py", line 45, in <module>
+    
+  File "<decorator-gen-652>", line 2, in read_gml
+  File "/home/jijoo/theor/lib/python3.5/site-packages/networkx/utils/decorators.py", line 214, in _open_file
+    fobj = _dispatch_dict[ext](path, mode=mode)
+FileNotFoundError: [Errno 2] No such file or directory: 'networks/immune_expanded_network.gml'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main_cellCollective.py", line 48, in <module>
+    # nx.write_gml(GExpanded, NetworkName + '_expanded_network.gml')
+  File "/home/jijoo/tmp/pycharm_project_225/par_helper.py", line 72, in par_get_expanded_network
+    temp = future.result()
+  File "/usr/lib/python3.5/concurrent/futures/_base.py", line 398, in result
+    return self.__get_result()
+  File "/usr/lib/python3.5/concurrent/futures/_base.py", line 357, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.

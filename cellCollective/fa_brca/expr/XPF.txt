@@ -1,0 +1,1 @@
+( ( p53 AND ( ( ( MUS81 ) ) )     ) AND NOT ( FAcore AND ( ( ( FANCD2I  AND FAN1 ) ) )     ) )  OR ( ( MUS81  ) AND NOT ( FANCM  ) ) 

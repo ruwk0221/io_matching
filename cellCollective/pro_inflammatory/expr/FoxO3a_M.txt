@@ -1,0 +1,1 @@
+( ( ( ROS_M  ) AND NOT ( PI3KAkt_M  )  ) AND NOT ( ERK_M  ) )  OR ( ( ( Bcatenin_M  ) AND NOT ( PI3KAkt_M  )  ) AND NOT ( ERK_M  ) ) 

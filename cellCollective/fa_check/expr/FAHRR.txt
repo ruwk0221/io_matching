@@ -1,0 +1,1 @@
+( ( FANCD2I AND ( ( ( DSB	 ) ) )     ) AND NOT ( NHEJ AND ( ( ( CHKREC ) ) )     ) ) 

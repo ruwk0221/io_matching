@@ -1,0 +1,1 @@
+( ( ( hCPEB  ) AND NOT ( Cytokinesis  ) )  OR ( ( CDC25B  ) AND NOT ( Cytokinesis  ) )  ) OR  NOT ( hCPEB OR CDC25B OR WEE1 OR Cytokinesis ) 

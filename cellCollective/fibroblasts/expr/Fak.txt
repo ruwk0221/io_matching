@@ -1,0 +1,1 @@
+( ( Integrins AND ( ( ( Talin ) ) )     ) AND NOT ( PTEN AND ( ( ( Fak ) ) )     ) )  OR ( ( Src AND ( ( ( Fak ) ) )     ) AND NOT ( PTEN AND ( ( ( Fak ) ) )     ) ) 

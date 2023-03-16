@@ -1,0 +1,1 @@
+( Ras AND ( ( ( NOT Raf_Loc ) )  AND ( ( Raf_DeP ) ) )    )  OR ( Raf_Loc AND ( ( ( NOT Raf ) ) )    ) 

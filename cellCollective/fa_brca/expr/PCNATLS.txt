@@ -1,0 +1,1 @@
+( ( ( FAcore AND ( ( ( ADD ) ) )     ) AND NOT ( FAN1  )  ) AND NOT ( USP1  ) )  OR ( ( ( ADD  ) AND NOT ( FAN1  )  ) AND NOT ( USP1  ) ) 

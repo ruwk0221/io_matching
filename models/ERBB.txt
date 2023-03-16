@@ -1,0 +1,21 @@
+#BOOLEAN RULES
+ERBB1*= EGF
+ERBB2*= EGF
+ERBB3*= EGF
+ERBB1_2*= ERBB1 and ERBB2
+ERBB1_3*= ERBB1 and ERBB3
+ERBB2_3*= ERBB2 and ERBB3
+IGF1R*= (ERa or AKT1) and not ERBB2_3
+ERa*= AKT1 or MEK1
+c-MYC*= AKT1 or MEK1 or ERa
+AKT1*= ERBB1 or ERBB1_2 or ERBB1_3 or ERBB2_3 or IGF1R
+MEK1*= ERBB1 or ERBB1_2 or ERBB1_3 or ERBB2_3 or IGF1R
+CDK2*= CyclinE1 and not p21 and not p27
+CDK4*= CyclinD1 and not p21 and not p27
+CDK6*= CyclinD1
+CyclinD1*= ERa and c-MYC and (AKT1 or MEK1)
+CyclinE1*= c-MYC
+p21*= ERa and not AKT1 and not c-MYC and not CDK4
+p27*= ERa and not CDK4 and not CDK2 and not AKT1 and not c-MYC
+pRB*= (CDK4 and CDK6) or (CDK4 and CDK6 and CDK2)
+EGF*= EGF

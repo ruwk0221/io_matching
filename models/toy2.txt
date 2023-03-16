@@ -1,0 +1,7 @@
+# BOOLEAN RULES
+I*= I
+M*= I
+A*= I or M
+B*= A
+C*= M
+O*= A and B and C

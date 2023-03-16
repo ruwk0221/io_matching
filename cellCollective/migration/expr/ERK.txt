@@ -1,0 +1,1 @@
+( ( CDH2  ) AND NOT ( AKT1  ) )  OR ( ( SMAD  ) AND NOT ( AKT1  ) )  OR ( ( GF  ) AND NOT ( AKT1  ) )  OR ( ( NICD  ) AND NOT ( AKT1  ) ) 

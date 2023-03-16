@@ -1,0 +1,21 @@
+#BOOLEAN RULES
+ERBB1*= EGF > 0
+ERBB2*= EGF > 0
+ERBB3*= EGF > 0
+ERBB1_2*= ERBB1 + ERBB2 > 0
+ERBB1_3*= ERBB1 + ERBB3 > 0
+ERBB2_3*= ERBB2 + ERBB3 > 0
+IGF1R*= (ERa + AKT1) - ERBB2_3 > 0
+ERa*= AKT1 + MEK1 > 0
+c-MYC*= AKT1 + MEK1 + ERa > 0
+AKT1*= ERBB1 + ERBB1_2 + ERBB1_3 + ERBB2_3 + IGF1R > 0
+MEK1*= ERBB1 + ERBB1_2 + ERBB1_3 + ERBB2_3 + IGF1R > 0
+CDK2*= CyclinE1 - p21 - p27 > 0
+CDK4*= CyclinD1 - p21 - p27 > 0
+CDK6*= CyclinD1 > 0
+CyclinD1*= ERa + c-MYC + (AKT1 + MEK1) > 0
+CyclinE1*= c-MYC > 0
+p21*= ERa - AKT1 - c-MYC - CDK4 > 0
+p27*= ERa - CDK4 - CDK2 - AKT1 - c-MYC > 0
+pRB*= (CDK4 + CDK6 + CDK2) > 0
+EGF*= EGF > 0

@@ -1,0 +1,1 @@
+( ( FAcore AND ( ( ( ATM  OR ATR ) )  OR ( ( H2AX  AND DSB ) ) )     ) AND NOT ( USP1  ) ) 

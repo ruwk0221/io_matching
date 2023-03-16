@@ -1,0 +1,1 @@
+( VCAM1_M AND ( ( ( CXCR4_H ) ) )    ) 

@@ -1,0 +1,1 @@
+( ( ( SNAI2 AND ( ( ( TWIST1 ) ) )     ) AND NOT ( miR200  )  ) AND NOT ( miR203  ) )  OR ( ( ( NICD  ) AND NOT ( miR200  )  ) AND NOT ( miR203  ) )  OR ( ( ( SNAI1  ) AND NOT ( miR200  )  ) AND NOT ( miR203  ) ) 

@@ -1,0 +1,1 @@
+( ( miR203  ) AND NOT ( AKT1  ) )  OR ( ( p21  ) AND NOT ( AKT1  ) )  OR ( ( miR34  ) AND NOT ( AKT1  ) )  OR ( ( miR200  ) AND NOT ( AKT1  ) )  OR ( ( ZEB2  ) AND NOT ( AKT1  ) ) 

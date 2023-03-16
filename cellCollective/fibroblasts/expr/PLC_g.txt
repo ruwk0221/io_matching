@@ -1,0 +1,1 @@
+( Src AND ( ( ( Fak  AND PIP3_345 ) ) )    )  OR ( ( EGFR AND ( ( ( PIP3_345 ) ) )     ) AND NOT ( PA AND ( ( ( AA ) )  AND ( ( NOT Src  AND NOT Fak ) ) )     ) )  OR ( Fak AND ( ( ( Src ) )  AND ( ( NOT EGFR  AND NOT PA  AND NOT PIP3_345  AND NOT AA ) ) )    ) 

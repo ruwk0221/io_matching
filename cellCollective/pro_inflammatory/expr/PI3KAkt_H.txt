@@ -1,0 +1,1 @@
+( ( VLA4_H  ) AND NOT ( FoxO3a_H  ) )  OR ( ( TLR_H  ) AND NOT ( FoxO3a_H  ) )  OR ( ( CXCR4_H AND ( ( ( CXCR7_H ) ) )     ) AND NOT ( FoxO3a_H  ) )  OR ( ( GCSF  ) AND NOT ( FoxO3a_H  ) )  OR ( ( ROS_H  ) AND NOT ( FoxO3a_H  ) ) 

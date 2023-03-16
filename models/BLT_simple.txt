@@ -1,0 +1,34 @@
+# Boolean rules
+# Inputs
+EGF*= EGF > 0
+Estrogen*= Estrogen > 0
+# Signaling molecules
+AKT*= PI3K + STAT3 + ERK12 + BCL11A + ERa + BCL11A > 0
+PI3K*= EGFR - PTEN + cSrc + HDAC12 > 0
+PTEN*= - PI3K > 0
+SNAI1*= ((ZEB1 + HDAC12) + (AKT + ERK12)) > 0
+HDAC12*= (AKT + ERK12) > 0
+STAT3*=  cSrc + (AKT + CCND1) > 0
+CDH1*= - ZEB1 - SLUG - SNAI1 - AKT > 0
+ESR1*= FOXA1 + GATA3 - HDAC12 - cSrc > 0
+FOXA1*= (ESR1 + GATA3) > 0
+GATA3*= ESR1 + FOXA1 > 0
+ERa*= (ESR1 + Estrogen) > 0
+cSrc*= (EGFR + ERa) > 0
+EGFR*= (EGF) + HDAC12 > 0
+KRAS*= EGFR + cSrc > 0
+ERK12*= KRAS + HDAC12 > 0
+FOXC1*= EGFR - GATA3 > 0
+ZEB1*= (AKT + ERK12) + (SLUG + FOXC1) > 0
+SLUG*= (AKT + ERK12) + (SNAI1 + ZEB1) > 0
+CCND1*= (ERa  + (ERK12 + STAT3)) + BCL11A > 0
+C4orf7*= - AKT > 0
+BCL11A*= (AKT + ERK12) > 0
+CDCA7*= HDAC12 > 0
+SOX11*= AKT + ERK12 > 0
+MSLN*= AKT - ESR1 > 0
+ANXA9*= GATA3 + FOXA1 > 0
+KRT18*= (C6orf97) > 0
+CA12*= ESR1 + FOXA1 > 0
+C6orf97*= ESR1 > 0
+

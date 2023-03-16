@@ -1,0 +1,1 @@
+( ( PCNATLS  ) AND NOT ( FANCM  ) )  OR ( ( FANCD1N AND ( ( ( FANCD2I ) ) )     ) AND NOT ( FANCM  ) ) 

@@ -1,0 +1,1 @@
+( ( pdk1 AND ( ( ( mtor_ric  AND pip3 ) ) )     ) AND NOT ( pp2a  ) )  OR ( ( pi34p2 AND ( ( ( mtor_ric  AND pdk1 ) ) )     ) AND NOT ( pp2a  ) ) 

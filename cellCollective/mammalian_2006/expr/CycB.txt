@@ -1,0 +1,1 @@
+ NOT ( ( Cdh1 )  OR ( Cdc20 ) )

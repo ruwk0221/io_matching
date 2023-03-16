@@ -1,0 +1,1 @@
+( ( ( ( IFNG  ) AND NOT ( IL10  )  ) AND NOT ( TGFB  )  ) AND NOT ( IL4  ) )  OR ( ( ( ( IL12  ) AND NOT ( IL10  )  ) AND NOT ( TGFB  )  ) AND NOT ( IL4  ) ) 

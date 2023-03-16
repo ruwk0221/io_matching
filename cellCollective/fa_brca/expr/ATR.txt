@@ -1,0 +1,1 @@
+( ( ATM  ) AND NOT ( CHKREC  ) )  OR ( ( FANCM  ) AND NOT ( CHKREC  ) )  OR ( ( ssDNARPA  ) AND NOT ( CHKREC  ) ) 

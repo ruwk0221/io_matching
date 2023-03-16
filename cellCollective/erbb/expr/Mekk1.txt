@@ -1,0 +1,1 @@
+( Rho AND ( ( ( Shc ) )  OR ( ( Grb2 ) ) )    )  OR ( GCK )  OR ( Ras )  OR ( Rac )  OR ( Trafs )  OR ( NIK AND ( ( ( Shc ) )  OR ( ( Grb2 ) ) )    )  OR ( Cdc42 )  OR ( Grb2 AND ( ( ( Shc ) ) )    ) 

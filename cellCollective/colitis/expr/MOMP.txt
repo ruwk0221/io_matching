@@ -1,0 +1,1 @@
+( ( TBID  ) AND NOT ( BCL2  ) )  OR ( ( CERAMIDE  ) AND NOT ( BCL2  ) )  OR ( ( BAX  ) AND NOT ( BCL2  ) ) 

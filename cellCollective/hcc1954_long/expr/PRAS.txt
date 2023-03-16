@@ -1,0 +1,1 @@
+( ( cJUN  ) AND NOT ( AKT  ) )  OR ( ( PRAS  ) AND NOT ( AKT  ) ) 

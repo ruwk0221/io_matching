@@ -1,0 +1,1 @@
+ NOT ( ( SNAI2 )  OR ( TWIST1 )  OR ( ZEB1 )  OR ( SNAI1 )  OR ( ZEB2 )  OR ( AKT2 ) )

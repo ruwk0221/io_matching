@@ -1,0 +1,1 @@
+( ( ( ( CycA  ) AND NOT ( Rb  )  ) AND NOT ( Cdc20  )  ) AND NOT ( Cdh1 AND ( ( ( UbcH10 ) ) )     ) )  OR ( ( ( ( E2F  ) AND NOT ( Rb  )  ) AND NOT ( Cdc20  )  ) AND NOT ( Cdh1 AND ( ( ( UbcH10 ) ) )     ) ) 

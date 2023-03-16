@@ -1,0 +1,1 @@
+( ( ( ( ( p27  ) AND NOT ( CycD  )  ) AND NOT ( CycB  )  ) AND NOT ( CycA AND ( ( ( CycE ) ) )     ) )  ) OR  NOT ( CycE OR p27 OR CycA OR CycD OR CycB ) 

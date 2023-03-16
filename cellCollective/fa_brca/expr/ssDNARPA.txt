@@ -1,0 +1,1 @@
+( ( ( DSB AND ( ( ( FANCD2I  AND FANCJBRCA1 ) )  OR ( ( MRN ) ) )     ) AND NOT ( RAD51  )  ) AND NOT ( KU  ) ) 

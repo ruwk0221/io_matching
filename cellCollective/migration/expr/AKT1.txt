@@ -1,0 +1,1 @@
+( ( ( ( CTNNB1 AND ( ( ( GF ) )  OR ( ( CDH2 ) )  OR ( ( NICD ) )  OR ( ( TGFbeta ) ) )     ) AND NOT ( miR34  )  ) AND NOT ( p53  )  ) AND NOT ( CDH1  ) ) 

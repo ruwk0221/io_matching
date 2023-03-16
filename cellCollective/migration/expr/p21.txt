@@ -1,0 +1,1 @@
+( ( ( p53  ) AND NOT ( AKT1  )  ) AND NOT ( ERK  ) )  OR ( ( ( p63  ) AND NOT ( AKT1  )  ) AND NOT ( ERK  ) )  OR ( ( ( SMAD AND ( ( ( NICD ) ) )     ) AND NOT ( AKT1  )  ) AND NOT ( ERK  ) )  OR ( ( ( AKT2  ) AND NOT ( AKT1  )  ) AND NOT ( ERK  ) )  OR ( ( ( p73  ) AND NOT ( AKT1  )  ) AND NOT ( ERK  ) ) 

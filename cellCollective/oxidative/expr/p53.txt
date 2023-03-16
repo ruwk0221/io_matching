@@ -1,0 +1,1 @@
+( ( ATM  ) AND NOT ( Mdm2  ) ) 

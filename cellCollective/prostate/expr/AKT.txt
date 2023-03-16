@@ -1,0 +1,1 @@
+( ( PTEN AND ( ( ( NOT PDPK1  AND NOT NKX3.1 ) ) )    )  OR ( PDPK1 )  OR ( NKX3.1 AND ( ( ( NOT PDPK1  AND NOT PTEN ) ) )    )  ) OR  NOT ( PDPK1 OR PTEN OR NKX3.1 ) 

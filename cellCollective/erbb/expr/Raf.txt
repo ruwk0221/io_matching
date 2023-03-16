@@ -1,0 +1,1 @@
+( Raf AND ( ( ( NOT Akt  AND NOT Erk  AND NOT PKA ) ) )    )  OR ( PAK AND ( ( ( Raf ) )  AND ( ( NOT Akt  AND NOT Ras  AND NOT Erk ) ) )    )  OR ( Src AND ( ( ( PAK  AND RKIP  AND Raf_Loc ) )  AND ( ( NOT Raf ) ) )    )  OR ( Ras AND ( ( ( Raf ) ) )    ) 

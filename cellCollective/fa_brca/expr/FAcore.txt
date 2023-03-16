@@ -1,0 +1,1 @@
+( ( FANCM AND ( ( ( ATM  OR ATR ) ) )     ) AND NOT ( CHKREC  ) ) 

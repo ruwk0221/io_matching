@@ -1,0 +1,1 @@
+( ( ROS_M  ) AND NOT ( PI3KAkt_M  ) )  OR ( ( NfkB_H  ) AND NOT ( PI3KAkt_H  ) )  OR ( ( ROS_H  ) AND NOT ( PI3KAkt_H  ) )  OR ( ( NfkB_M  ) AND NOT ( PI3KAkt_M  ) ) 

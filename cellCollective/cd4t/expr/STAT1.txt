@@ -1,0 +1,1 @@
+( ( IFNGR  ) AND NOT ( SOCS1  ) )  OR ( ( IL27R  ) AND NOT ( SOCS1  ) )  OR ( ( IFNBR  ) AND NOT ( SOCS1  ) ) 

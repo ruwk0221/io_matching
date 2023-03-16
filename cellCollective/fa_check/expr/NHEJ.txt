@@ -1,0 +1,1 @@
+( ( ( ( NUC2 AND ( ( ( DSB	 ) ) )     ) AND NOT ( CHKREC  )  ) AND NOT ( FAHRR  )  ) AND NOT ( HRR2  ) ) 

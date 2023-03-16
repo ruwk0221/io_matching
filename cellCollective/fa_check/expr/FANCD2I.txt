@@ -1,0 +1,1 @@
+( ( FAcore AND ( ( ( DSB	 )  AND (  ( ( ATR  OR ATM ) ) ) )  OR ( ( ATR  OR ATM ) ) )     ) AND NOT ( CHKREC  ) ) 

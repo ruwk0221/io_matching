@@ -1,0 +1,16 @@
+BLCA - Bladder Urothelial carcinoma
+COAD - Colorectal adenocarcinoma
+BRCA - Breast Invasive carcinoma
+CSCC - Cervical Squamous Cell Carcinoma
+EAC - Esophageal Adenocarcinoma
+SAC - Stomach Adenocarcinoma
+HNSCC - Head and Neck Squamous Cell Carcinoma
+RCCC - Kidney Renal Clear Cell Carcinoma
+HCC - Liver Hepatocellular Carcinoma
+LUAD - Lung Adenocarcinoma
+LSCC - Lung Squamous Cell Carcinoma
+OSCC - Ovarian Serous Cystadenocarcinoma
+PAAD - Pancreatic Adenocarcinoma
+PRAD - Prostate Adenocarcinoma
+THCC - Thyroid Carcinoma
+UCEC - Uterine Corpus Endometrial Carcinoma

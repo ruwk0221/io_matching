@@ -1,0 +1,1 @@
+( ( NfkB_M )  OR ( PI3KAkt_M )  ) OR  NOT ( Bcatenin_M OR PI3KAkt_M OR NfkB_M ) 

@@ -1,0 +1,9 @@
+alpha_1213L
+alpha_sL
+IL1_TNF
+alpha_iL
+alpha_qL
+EGF
+ECM
+ExtPump
+Stress

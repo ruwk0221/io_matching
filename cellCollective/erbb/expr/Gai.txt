@@ -1,0 +1,1 @@
+( alpha_iR AND ( ( ( NOT Gai  AND NOT Gbg_i ) ) )    )  OR ( PKA AND ( ( ( NOT Gai ) )  AND ( ( NOT Gbg_i ) )  AND ( ( NOT alpha_sR ) )  AND ( ( alpha_sL ) ) )    )  OR ( Gbg_i AND ( ( ( NOT RGS ) )  AND ( ( Gai ) ) )    ) 

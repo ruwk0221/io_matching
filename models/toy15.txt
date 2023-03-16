@@ -1,0 +1,8 @@
+# BOOLEAN RULES
+I*= I > 0
+A*= ( I + B ) > 0
+B*= I > 0
+C*= ( A + D ) > 1
+D*= B > 0
+E*= A > 0
+O*= E + C > 0

@@ -1,0 +1,1 @@
+( ( TBID AND ( ( ( PP2A ) ) )     ) AND NOT ( AKT  ) )  OR ( ( P53 AND ( ( ( PP2A ) ) )     ) AND NOT ( AKT  ) ) 

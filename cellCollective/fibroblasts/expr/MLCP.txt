@@ -1,0 +1,1 @@
+( ( ( ( ( ( PKA AND ( ( ( RhoK ) ) )     ) AND NOT ( PKC  )  ) AND NOT ( ILK  )  ) AND NOT ( Raf  )  ) AND NOT ( PAK  ) )  ) OR  NOT ( ILK OR RhoK OR PAK OR PKC OR PKA OR Raf ) 

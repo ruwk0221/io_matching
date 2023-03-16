@@ -1,0 +1,1 @@
+( Arp_23 AND ( ( ( NOT IQGAP1 ) )  AND ( ( Myosin ) )  AND ( ( alpha_catenin ) ) )    )  OR ( IQGAP1 AND ( ( ( Myosin ) ) )    ) 

@@ -1,0 +1,1 @@
+( ( ( Erk  ) AND NOT ( MKPs  )  ) AND NOT ( PP2A  ) )  OR ( Mek ) 

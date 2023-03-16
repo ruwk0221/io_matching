@@ -1,0 +1,1 @@
+ NOT ( ( NfkB_M )  OR ( FoxO3a_M )  OR ( GSK3B_M ) )

@@ -1,0 +1,1 @@
+( ( CASP3  ) AND NOT ( cFLIP  ) )  OR ( ( DISC-FAS  ) AND NOT ( cFLIP  ) )  OR ( ( DISC-TNF  ) AND NOT ( cFLIP  ) ) 

@@ -1,0 +1,1 @@
+( ( ( ( TSC2  ) AND NOT ( GSKa_b  )  ) AND NOT ( ERK1_2  )  ) AND NOT ( AKT  ) )  OR ( ( ( ( RB  ) AND NOT ( GSKa_b  )  ) AND NOT ( ERK1_2  )  ) AND NOT ( AKT  ) ) 

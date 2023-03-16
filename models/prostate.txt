@@ -1,0 +1,46 @@
+# Boolean rules
+# Inputs
+NKX31*= NKX31
+AZD6244*= AZD6244
+Temsirolimus*= Temsirolimus
+IGF*= IGF
+EGF*= EGF
+HBEGF*= HBEGF
+PTEN*= PTEN
+AZD5363*= AZD5363
+Enzalutamide*= Enzalutamide
+BKM120*= BKM120
+Lapatinib*= Lapatinib
+Androgens*= Androgens
+Cixutumumab*= Cixutumumab
+NRG1*= NRG1
+# Signaling molecules
+PDPK1*= ( PIP3 )
+BAD*= not ( ( AKT ) or ( RP6SKB1 ) )
+SP1*= ( ERK12 )
+ERK12*= ( MEK1 and ( ( ( not AZD6244 ) ) ) )
+AKT*= ( ( PTEN and ( ( ( not NKX31 and not PDPK1 ) ) ) ) or ( PDPK1 ) or ( NKX31 and ( ( ( not PTEN and not PDPK1 ) ) ) ) ) or not ( NKX31 or PTEN or PDPK1 )
+SRFELK1*= ( ERK12 and ( ( ( RP6SKB1 ) ) ) )
+ERBB23*= ( NRG1 )
+Ras*= ( GRB2SOS )
+PIK3CA*= ( Ras ) or ( IRS1 ) or ( ERBB23 )
+TSC12*= not ( ( AKT and ( ( ( not AZD5363 ) ) ) ) )
+ARAR*= ( AKT ) or ( ARHSP )
+BCL2*= not ( ( BAD ) )
+ARHSP*= ( Androgens )
+CDK2CyclinE*= not ( ( p21 ) )
+EGFRERBB2*= ( EGF )
+EFGR*= ( EGF ) or ( HBEGF )
+RP6SKB1*= ( mTOR and ( ( ( not Temsirolimus ) ) ) ) or ( PDPK1 ) or ( ERK12 )
+MEK1*= ( Raf )
+PSA*= ( ARAR and ( ( ( not Enzalutamide ) ) ) )
+IRS1*= ( IGFR1AB and ( ( ( not Cixutumumab ) ) ) )
+GRB2SOS*= ( EGFRERBB2 and ( ( ( not Lapatinib ) ) ) ) or ( EFGR and ( ( ( not Lapatinib ) ) ) ) or ( IGFR1AB ) or ( ERBB23 and ( ( ( not Lapatinib ) ) ) )
+RHEB*= not ( ( TSC12 ) )
+TMPRSS2*= ( ARAR and ( ( ( not Enzalutamide ) ) ) )
+p21*= not ( ( AKT ) )
+IGFR1AB*= ( IGF )
+PIP3*= ( ( PIK3CA ) and not ( PTEN ) )
+Raf*= ( Ras ) or ( PIK3CA and ( ( ( not BKM120 ) ) ) )
+mTOR*= ( RHEB )
+

@@ -1,0 +1,1 @@
+( ( ATM AND ( ( ( CHK2 ) ) )     ) AND NOT ( CHKREC  ) )  OR ( ( ATR AND ( ( ( CHK1 ) ) )     ) AND NOT ( CHKREC  ) )  OR ( ( DNAPK  ) AND NOT ( CHKREC  ) ) 

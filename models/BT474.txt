@@ -1,0 +1,19 @@
+# Boolean rules
+# Inputs
+pertuzumab*= pertuzumab
+EGF*= EGF
+trastuzumab*= trastuzumab
+erlotinib*= erlotinib
+HRG*= HRG
+# Internal nodes
+PDK1*= ( ERBB3 )  OR ( MEK1_2 )  OR ( ERBB1 )  OR ( ERBB2 )  OR ( PDK1 ) 
+ERK1_2*= ( pertuzumab )  OR ( MEK1_2 )  OR ( ERK1_2 )  OR ( EGF ) 
+mTOR*= ( AKT )  OR ( pertuzumab )  OR ( mTOR ) 
+PLCg*= ( ERBB1 )  OR ( ERBB3 )  OR ( ERBB2 )  OR ( PLCg )  OR ( EGF ) 
+ERBB2*= ( ( ( ( ERBB3  ) AND NOT ( erlotinib  )  ) AND NOT ( pertuzumab  )  ) AND NOT ( trastuzumab  ) )  OR ( ( ( ( ERBB2  ) AND NOT ( erlotinib  )  ) AND NOT ( pertuzumab  )  ) AND NOT ( trastuzumab  ) )  OR ( ( ( ( EGF  ) AND NOT ( erlotinib  )  ) AND NOT ( pertuzumab  )  ) AND NOT ( trastuzumab  ) ) 
+MEK1_2*= ( ERBB1 )  OR ( ERBB2 )  OR ( MEK1_2 )  OR ( ERBB3 ) 
+AKT*= ( ERBB3 )  OR ( AKT )  OR ( PDK1 )  OR ( mTOR ) 
+ERBB1*= ( ( ( EGF  ) AND NOT ( pertuzumab  )  ) AND NOT ( erlotinib  ) )  OR ( ( ( PLCg  ) AND NOT ( pertuzumab  )  ) AND NOT ( erlotinib  ) )  OR ( ( ( ERBB1  ) AND NOT ( pertuzumab  )  ) AND NOT ( erlotinib  ) ) 
+ERBB3*= ( ( ( ( HRG  ) AND NOT ( pertuzumab  )  ) AND NOT ( erlotinib  )  ) AND NOT ( pertuzumab  ) )  OR ( ( ( ( ERBB3  ) AND NOT ( pertuzumab  )  ) AND NOT ( erlotinib  )  ) AND NOT ( pertuzumab  ) ) 
+PKCa*= ( PLCg )  OR ( PKCa ) 
+p70S6K*= ( mTOR )  OR ( p70S6K )  OR ( ERK1_2 )  OR ( AKT ) 

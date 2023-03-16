@@ -1,0 +1,1 @@
+( ( FAcore AND ( ( ( ADD ) ) )     ) AND NOT ( CHKREC  ) )  OR ( ( ADD  ) AND NOT ( CHKREC  ) ) 

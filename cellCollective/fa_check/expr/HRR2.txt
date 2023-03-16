@@ -1,0 +1,1 @@
+( ( ( NUC2 AND ( ( ( DSB	  AND ICL  AND NHEJ ) ) )     ) AND NOT ( CHKREC  )  ) AND NOT ( FAHRR  ) )  OR ( ( ( ( TLS AND ( ( ( DSB	  AND NUC2 ) ) )     ) AND NOT ( CHKREC  )  ) AND NOT ( NHEJ  )  ) AND NOT ( FAHRR  ) ) 

@@ -1,0 +1,1 @@
+( ( TLR_H  ) AND NOT ( FoxO3a_H  ) )  OR ( ( IL1 AND ( ( ( PI3KAkt_H ) ) )     ) AND NOT ( FoxO3a_H  ) )  OR ( ( ROS_H  ) AND NOT ( FoxO3a_H  ) ) 

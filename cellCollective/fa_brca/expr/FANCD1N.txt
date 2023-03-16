@@ -1,0 +1,1 @@
+( ssDNARPA AND ( ( ( BRCA1 ) ) )    )  OR ( ( FANCD2I AND ( ( ( ssDNARPA ) ) )     ) AND NOT ( CHKREC  ) ) 

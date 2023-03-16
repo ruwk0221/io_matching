@@ -1,0 +1,1 @@
+( IFNGR2 AND ( ( ( TNF ) ) )    )  OR ( ( FYN  ) AND NOT ( CD74  ) )  OR ( ( FYN AND ( ( ( TNF  AND IFNGR2 ) ) )     ) AND NOT ( CD74  ) ) 

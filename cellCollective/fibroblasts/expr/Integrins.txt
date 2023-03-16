@@ -1,0 +1,1 @@
+( PP2A AND ( ( ( ILK  AND Talin  AND ECM ) )  AND ( ( NOT Integrins ) ) )    )  OR ( Src AND ( ( ( NOT ILK  AND NOT PP2A  AND NOT Talin  AND NOT Integrins  AND NOT ECM ) ) )    )  OR ( Integrins AND ( ( ( NOT Src  AND NOT ILK ) ) )    )  OR ( Talin AND ( ( ( ECM ) )  AND ( ( NOT ILK  AND NOT Integrins ) ) )    ) 

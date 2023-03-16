@@ -1,0 +1,1 @@
+( ( NIK  ) AND NOT ( A20  ) )  OR ( ( AKT  ) AND NOT ( A20  ) ) 

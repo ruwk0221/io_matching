@@ -1,0 +1,15 @@
+Ge*= Ge
+Aram*= Aram
+Ae*= Ae
+Aem*= Aem
+
+Arap*= ( Aram AND ( ( ( A  OR Am ) ) )    ) 
+MT*= ( Arap AND ( ( ( C ) ) )    ) 
+C*=  NOT ( ( Ge ) )
+MS*= ( Arap AND ( ( ( C ) ) )    ) 
+Am*= ( Aem AND ( ( ( T ) ) )    )  OR ( Ae ) 
+L*= ( ( Aram  ) AND NOT ( Arap  ) ) 
+A*= ( Ae AND ( ( ( T ) ) )    ) 
+E*= ( MS ) 
+T*= ( MT ) 
+

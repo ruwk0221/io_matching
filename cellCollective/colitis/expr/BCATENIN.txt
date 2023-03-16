@@ -1,0 +1,1 @@
+ NOT ( ( APC AND ( ( ( GSK3B ) ) )    ) )

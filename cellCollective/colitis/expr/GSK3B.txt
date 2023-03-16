@@ -1,0 +1,1 @@
+ NOT ( ( EP2 )  OR ( AKT ) )

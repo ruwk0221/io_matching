@@ -1,0 +1,1 @@
+( EGFR_EGFR_TGFa_CCP AND ( ( ( Clathrin  OR GAK ) )  AND ( ( Actin  AND Dynamin ) )  AND ( ( AP2  AND PIP2_45 ) ) )    )  OR ( ( EGFR_EGFR_TGFa_CCV  ) AND NOT ( EGFR_EGFR_TGFa_End  ) ) 

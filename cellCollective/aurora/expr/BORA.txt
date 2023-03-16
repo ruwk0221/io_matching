@@ -1,0 +1,1 @@
+( ( GSK3B  ) AND NOT ( PLK1 AND ( ( ( Cytokinesis ) ) )     ) ) 

@@ -1,0 +1,1 @@
+( CaMKK AND ( ( ( NOT Akt ) )  AND ( ( PIP3_345  OR PIP2_34 ) )  AND ( ( Src  AND ILK ) ) )    )  OR ( Akt AND ( ( ( NOT PP2A ) ) )    )  OR ( PDK1 AND ( ( ( PIP3_345  OR PIP2_34 ) )  AND ( ( NOT Akt ) )  AND ( ( Src  AND ILK ) ) )    ) 
